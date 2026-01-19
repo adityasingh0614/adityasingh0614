@@ -1,15 +1,5 @@
-<h1 align="center">
   Hey 👋, I'm Aditya Singh
-</h1>
-
-<h3 align="center">
   Android Developer • Building real-world mobile apps
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityasingh0614&style=flat-square&color=red"/>
-</p>
-
 ---
 
 ## 🚀 About Me
