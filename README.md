@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Aditya Singh
 
-<!--
-**adityasingh0614/adityasingh0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Mobile Application Developer  
+Flutter • Android • Firebase • REST APIs
 
-Here are some ideas to get you started:
+I build production-ready mobile applications and MVPs for startups and businesses.
+My focus is on clean architecture, scalable code, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- Mobile apps (Android & iOS using Flutter)
+- E-commerce & marketplace applications
+- Data-driven and information platforms
+- Firebase backend & API integrations
+
+---
+
+### 🛠 Tech Stack
+**Mobile:** Flutter, Android  
+**Backend:** Firebase, REST APIs  
+**Database:** Firestore  
+**Tools:** Git, GitHub  
+
+---
+
+### 📌 Featured Projects
+- **E-commerce Mobile App (MVP)** – Merchandise shopping prototype  
+- **Job Finder Platform** – Job search & filtering application  
+- **Government Exam Information App** – Central, State & PSU exam tracking  
+
+(Details available in pinned repositories below 👇)
+
+---
+
+### 🤝 Open to Freelance Work
+I'm currently open to freelance and contract-based mobile app development work.
+
+📧 Email: adisingh.9896@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/adityasingh9896/
+
+---
+
+⭐ If you find my work useful, feel free to explore my repositories.
