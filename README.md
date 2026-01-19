@@ -16,7 +16,6 @@ I’ve worked on:
 
 ## 🧩 Tech I ACTUALLY USE
 <p>
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>
   <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-black?style=for-the-badge&logo=jetpackcompose"/>
   <img src="https://img.shields.io/badge/MVVM-black?style=for-the-badge"/>
