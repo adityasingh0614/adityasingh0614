@@ -51,10 +51,12 @@ I’ve worked on:
 
 ---
 
-## 📊 GitHub Stats (Yes, this matters)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasingh0614&show_icons=true&hide=stars,prs,issues&theme=tokyonight" />
-</p>
+## 💼 What Clients Hire Me For
+- Building Android apps from scratch
+- Integrating payments (Razorpay)
+- Offline-first & data-heavy apps
+- Clean architecture & maintainable code
+
 
 
 ---
