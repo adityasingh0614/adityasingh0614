@@ -1,48 +1,69 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Mobile Application Developer (Android)</h3>
+<h1 align="center">
+  Hey 👋, I'm Aditya Singh
+</h1>
+
+<h3 align="center">
+  Android Developer • Building real-world mobile apps
+</h3>
 
 <p align="center">
-  Kotlin • Jetpack Compose • MVVM • Clean Architecture
+  <img src="https://komarev.com/ghpvc/?username=adityasingh0614&style=flat-square&color=red"/>
 </p>
 
 ---
 
-### 🧠 About Me
-- Android Developer with hands-on experience building production-grade apps
-- Strong focus on performance, clean architecture, and scalability
-- Experience with APIs, offline-first apps, and payment integrations
+## 🚀 About Me
+I’m an **Android Developer** who loves building apps that actually get used.  
+I focus on **performance, clean architecture, and real-world features**  
+—not tutorial apps.
+
+I’ve worked on:
+- Production Android apps
+- E-commerce & payment flows
+- Data-heavy & information platforms
 
 ---
 
-### 🛠 Tech Stack
+## 🧩 Tech I ACTUALLY USE (No Fake Stack)
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-black?style=for-the-badge&logo=jetpackcompose"/>
+  <img src="https://img.shields.io/badge/MVVM-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Retrofit-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Room-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📱 Featured Work
+- 🛒 **E-commerce Mobile App (MVP)**  
+  Product listing • Cart • Razorpay payments  
+
+- 💼 **Job Finder App**  
+  Search • Filters • Offline support • Notifications  
+
+- 🎓 **Government Exam Information App**  
+  Central / State / PSU exams *(Client project – confidential)*  
+
+---
+
+## 📊 GitHub Stats (Yes, this matters)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasingh0614&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasingh0614&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh0614&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh0614&theme=tokyonight"/>
 </p>
 
 ---
 
-### 📌 Featured Work
-- E-commerce Mobile App (MVP)
-- Job Finder Mobile Application
-- Client Projects (details below)
+## 🤝 Let’s Work Together
+📧 **Email:** adisingh.9896@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/adityasingh9896/
 
----
-
-### 🤝 Freelance Availability
-📧 Email: adisingh.9896@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/adityasingh9896/
+⚡ Open to freelance & contract Android work
