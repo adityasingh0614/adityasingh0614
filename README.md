@@ -14,9 +14,9 @@ I’ve worked on:
 
 ---
 
-## 🧩 Tech I ACTUALLY USE (No Fake Stack)
+## 🧩 Tech I ACTUALLY USE
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin"/>
+  <img src="![Kotlin](https://img.shields.io)"/>
   <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-black?style=for-the-badge&logo=jetpackcompose"/>
   <img src="https://img.shields.io/badge/MVVM-black?style=for-the-badge"/>
