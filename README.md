@@ -53,12 +53,9 @@ I’ve worked on:
 
 ## 📊 GitHub Stats (Yes, this matters)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasingh0614&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasingh0614&show_icons=true&hide=stars,prs,issues&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh0614&theme=tokyonight"/>
-</p>
 
 ---
 
